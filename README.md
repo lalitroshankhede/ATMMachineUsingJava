@@ -1,2 +1,3 @@
 # ATMMachineUsingJava
-Build Sample ATM Machine using Core Java
+Build ATM Machine Application using Core Java
+ 
