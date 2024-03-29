@@ -1,15 +1,14 @@
 # ATM Machine Program
 This is a simple ATM (Automated Teller Machine) program implemented in Java programming language. The program allows users to perform basic ATM operations such as withdrawing money, depositing money, and checking account balance.
 
-Prerequisites
+## Prerequisites
 To run this program, you need to have the following software installed on your system:
 
 Java Development Kit (JDK)
 Integrated Development Environment (IDE) like Eclipse, IntelliJ, or NetBeans
 Getting Started
 Clone the repository or download the source code files.
-shell
-Copy code
+
 git clone https://github.com/your-username/ATMMachine.git
 Open the project in your preferred IDE.
 
@@ -17,7 +16,7 @@ Compile and run the ATMMachine.java file.
 
 The program will start and display a menu with options for different operations.
 
-Usage
+## Usage
 The ATM Machine program supports the following operations:
 
 Check Balance: This option allows the user to check the current balance of their account.
